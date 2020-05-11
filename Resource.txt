@@ -4,3 +4,4 @@ https://stackoverflow.com/questions/35136059/creating-simple-tiny-elf-from-scrat
 https://refspecs.linuxfoundation.org/LSB_4.1.0/LSB-Core-generic/LSB-Core-generic/tocobjformat.html
 https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
 https://github.com/XlogicX/m2elf
+https://defuse.ca/online-x86-assembler.htm#disassembly2
